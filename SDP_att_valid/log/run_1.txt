@@ -1,0 +1,1128 @@
+New epoch 0
+epoch Train loss 361.578691006
+Epoch Train Accuracy 0.577404584281
+Validation Loss:  0.992124
+Validation accuracy : 0.6975
+rec_cnv3_filter_valid_predictions F1_score: 69.85% >>>
+./save/SDP_att_valid/model.ckpt0
+Test Loss:  0.879073
+test accuracy : 0.704821
+(2717,)
+SDP_att_predictions F1_score: 74.28% >>>
+New epoch 1
+epoch Train loss 219.396126032
+Epoch Train Accuracy 0.727786263209
+Validation Loss:  0.825808
+Validation accuracy : 0.74125
+rec_cnv3_filter_valid_predictions F1_score: 74.57% >>>
+./save/SDP_att_valid/model.ckpt01
+Test Loss:  0.708522
+test accuracy : 0.771439
+(2717,)
+SDP_att_predictions F1_score: 79.20% >>>
+New epoch 2
+epoch Train loss 177.941177964
+Epoch Train Accuracy 0.776412209482
+Validation Loss:  0.792143
+Validation accuracy : 0.7575
+rec_cnv3_filter_valid_predictions F1_score: 77.27% >>>
+./save/SDP_att_valid/model.ckpt012
+Test Loss:  0.671352
+test accuracy : 0.780272
+(2717,)
+SDP_att_predictions F1_score: 79.97% >>>
+New epoch 3
+epoch Train loss 149.126996666
+Epoch Train Accuracy 0.809083965216
+Validation Loss:  0.649582
+Validation accuracy : 0.79875
+rec_cnv3_filter_valid_predictions F1_score: 81.09% >>>
+./save/SDP_att_valid/model.ckpt0123
+Test Loss:  0.676716
+test accuracy : 0.789474
+(2717,)
+SDP_att_predictions F1_score: 81.23% >>>
+New epoch 4
+epoch Train loss 126.625968382
+Epoch Train Accuracy 0.839007629238
+Validation Loss:  0.57191
+Validation accuracy : 0.82125
+rec_cnv3_filter_valid_predictions F1_score: 82.14% >>>
+./save/SDP_att_valid/model.ckpt01234
+Test Loss:  0.640801
+test accuracy : 0.80346
+(2717,)
+SDP_att_predictions F1_score: 82.13% >>>
+New epoch 5
+epoch Train loss 107.66136308
+Epoch Train Accuracy 0.862290068665
+Validation Loss:  0.608678
+Validation accuracy : 0.8025
+rec_cnv3_filter_valid_predictions F1_score: 81.67% >>>
+./save/SDP_att_valid/model.ckpt012345
+Test Loss:  0.706017
+test accuracy : 0.788001
+(2717,)
+SDP_att_predictions F1_score: 80.97% >>>
+New epoch 6
+epoch Train loss 93.9998015314
+Epoch Train Accuracy 0.877480911617
+Validation Loss:  0.490194
+Validation accuracy : 0.84125
+rec_cnv3_filter_valid_predictions F1_score: 84.16% >>>
+./save/SDP_att_valid/model.ckpt0123456
+Test Loss:  0.699461
+test accuracy : 0.794626
+(2717,)
+SDP_att_predictions F1_score: 81.55% >>>
+New epoch 7
+epoch Train loss 81.6783325076
+Epoch Train Accuracy 0.891374041561
+Validation Loss:  0.439003
+Validation accuracy : 0.8775
+rec_cnv3_filter_valid_predictions F1_score: 87.20% >>>
+./save/SDP_att_valid/model.ckpt01234567
+Test Loss:  0.730028
+test accuracy : 0.796467
+(2717,)
+SDP_att_predictions F1_score: 82.09% >>>
+New epoch 8
+epoch Train loss 69.4543610215
+Epoch Train Accuracy 0.909923661756
+Validation Loss:  0.410347
+Validation accuracy : 0.86625
+rec_cnv3_filter_valid_predictions F1_score: 86.75% >>>
+./save/SDP_att_valid/model.ckpt012345678
+Test Loss:  0.735045
+test accuracy : 0.797203
+(2717,)
+SDP_att_predictions F1_score: 81.92% >>>
+New epoch 9
+epoch Train loss 62.4598218203
+Epoch Train Accuracy 0.919236637481
+Validation Loss:  0.398748
+Validation accuracy : 0.88125
+rec_cnv3_filter_valid_predictions F1_score: 88.56% >>>
+./save/SDP_att_valid/model.ckpt0123456789
+Test Loss:  0.734854
+test accuracy : 0.800883
+(2717,)
+SDP_att_predictions F1_score: 82.01% >>>
+New epoch 10
+epoch Train loss 55.5617395341
+Epoch Train Accuracy 0.926335874632
+Validation Loss:  0.351569
+Validation accuracy : 0.89375
+rec_cnv3_filter_valid_predictions F1_score: 89.30% >>>
+./save/SDP_att_valid/model.ckpt012345678910
+Test Loss:  0.770162
+test accuracy : 0.798307
+(2717,)
+SDP_att_predictions F1_score: 81.96% >>>
+New epoch 11
+epoch Train loss 48.7280138806
+Epoch Train Accuracy 0.93564885195
+Validation Loss:  0.36044
+Validation accuracy : 0.88875
+rec_cnv3_filter_valid_predictions F1_score: 89.71% >>>
+./save/SDP_att_valid/model.ckpt01234567891011
+Test Loss:  0.786616
+test accuracy : 0.797939
+(2717,)
+SDP_att_predictions F1_score: 81.85% >>>
+New epoch 12
+epoch Train loss 44.7330287062
+Epoch Train Accuracy 0.939770989063
+Validation Loss:  0.341342
+Validation accuracy : 0.89125
+rec_cnv3_filter_valid_predictions F1_score: 89.11% >>>
+./save/SDP_att_valid/model.ckpt0123456789101112
+Test Loss:  0.810029
+test accuracy : 0.801619
+(2717,)
+SDP_att_predictions F1_score: 82.26% >>>
+New epoch 13
+epoch Train loss 40.5263436772
+Epoch Train Accuracy 0.946259539546
+Validation Loss:  0.310463
+Validation accuracy : 0.9
+rec_cnv3_filter_valid_predictions F1_score: 90.22% >>>
+./save/SDP_att_valid/model.ckpt012345678910111213
+Test Loss:  0.861013
+test accuracy : 0.799043
+(2717,)
+SDP_att_predictions F1_score: 82.30% >>>
+New epoch 14
+epoch Train loss 35.4341096226
+Epoch Train Accuracy 0.952595418874
+Validation Loss:  0.307667
+Validation accuracy : 0.90375
+rec_cnv3_filter_valid_predictions F1_score: 90.84% >>>
+./save/SDP_att_valid/model.ckpt01234567891011121314
+Test Loss:  0.841356
+test accuracy : 0.802356
+(2717,)
+SDP_att_predictions F1_score: 82.31% >>>
+New epoch 15
+epoch Train loss 33.6180071123
+Epoch Train Accuracy 0.955725188929
+Validation Loss:  0.300043
+Validation accuracy : 0.91
+rec_cnv3_filter_valid_predictions F1_score: 91.47% >>>
+./save/SDP_att_valid/model.ckpt0123456789101112131415
+Test Loss:  0.825213
+test accuracy : 0.802724
+(2717,)
+SDP_att_predictions F1_score: 82.22% >>>
+New epoch 16
+epoch Train loss 30.8370507155
+Epoch Train Accuracy 0.958854960121
+Validation Loss:  0.292064
+Validation accuracy : 0.90625
+rec_cnv3_filter_valid_predictions F1_score: 90.83% >>>
+./save/SDP_att_valid/model.ckpt012345678910111213141516
+Test Loss:  0.872545
+test accuracy : 0.805668
+(2717,)
+SDP_att_predictions F1_score: 82.77% >>>
+New epoch 17
+epoch Train loss 30.4021888748
+Epoch Train Accuracy 0.960076335505
+Validation Loss:  0.262882
+Validation accuracy : 0.92
+rec_cnv3_filter_valid_predictions F1_score: 92.13% >>>
+./save/SDP_att_valid/model.ckpt01234567891011121314151617
+Test Loss:  0.886015
+test accuracy : 0.8053
+(2717,)
+SDP_att_predictions F1_score: 82.69% >>>
+New epoch 18
+epoch Train loss 27.1820553206
+Epoch Train Accuracy 0.965190839676
+Validation Loss:  0.291159
+Validation accuracy : 0.9075
+rec_cnv3_filter_valid_predictions F1_score: 91.55% >>>
+./save/SDP_att_valid/model.ckpt0123456789101112131415161718
+Test Loss:  0.878748
+test accuracy : 0.807508
+(2717,)
+SDP_att_predictions F1_score: 82.61% >>>
+New epoch 19
+epoch Train loss 24.7295873677
+Epoch Train Accuracy 0.968320612007
+Validation Loss:  0.258294
+Validation accuracy : 0.91875
+rec_cnv3_filter_valid_predictions F1_score: 92.36% >>>
+./save/SDP_att_valid/model.ckpt012345678910111213141516171819
+Test Loss:  0.91069
+test accuracy : 0.803828
+(2717,)
+SDP_att_predictions F1_score: 82.15% >>>
+New epoch 20
+epoch Train loss 23.1664286247
+Epoch Train Accuracy 0.971603054354
+Validation Loss:  0.266936
+Validation accuracy : 0.91625
+rec_cnv3_filter_valid_predictions F1_score: 92.60% >>>
+./save/SDP_att_valid/model.ckpt01234567891011121314151617181920
+Test Loss:  0.910716
+test accuracy : 0.803092
+(2717,)
+SDP_att_predictions F1_score: 82.32% >>>
+New epoch 21
+epoch Train loss 22.3939695098
+Epoch Train Accuracy 0.969694660365
+Validation Loss:  0.250085
+Validation accuracy : 0.91625
+rec_cnv3_filter_valid_predictions F1_score: 92.57% >>>
+./save/SDP_att_valid/model.ckpt0123456789101112131415161718192021
+Test Loss:  0.923785
+test accuracy : 0.803092
+(2717,)
+SDP_att_predictions F1_score: 82.38% >>>
+New epoch 22
+epoch Train loss 20.3611969249
+Epoch Train Accuracy 0.975038170132
+Validation Loss:  0.234103
+Validation accuracy : 0.9225
+rec_cnv3_filter_valid_predictions F1_score: 93.02% >>>
+./save/SDP_att_valid/model.ckpt012345678910111213141516171819202122
+Test Loss:  0.944514
+test accuracy : 0.806772
+(2717,)
+SDP_att_predictions F1_score: 82.75% >>>
+New epoch 23
+epoch Train loss 18.4298939486
+Epoch Train Accuracy 0.975725191013
+Validation Loss:  0.244328
+Validation accuracy : 0.9225
+rec_cnv3_filter_valid_predictions F1_score: 92.53% >>>
+./save/SDP_att_valid/model.ckpt01234567891011121314151617181920212223
+Test Loss:  0.954281
+test accuracy : 0.805668
+(2717,)
+SDP_att_predictions F1_score: 82.62% >>>
+New epoch 24
+epoch Train loss 18.2856249353
+Epoch Train Accuracy 0.976641222948
+Validation Loss:  0.235464
+Validation accuracy : 0.9225
+rec_cnv3_filter_valid_predictions F1_score: 93.44% >>>
+./save/SDP_att_valid/model.ckpt0123456789101112131415161718192021222324
+Test Loss:  0.931151
+test accuracy : 0.806772
+(2717,)
+SDP_att_predictions F1_score: 82.48% >>>
+New epoch 25
+epoch Train loss 18.1020156164
+Epoch Train Accuracy 0.976259543241
+Validation Loss:  0.22323
+Validation accuracy : 0.93125
+rec_cnv3_filter_valid_predictions F1_score: 94.01% >>>
+./save/SDP_att_valid/model.ckpt012345678910111213141516171819202122232425
+Test Loss:  0.978942
+test accuracy : 0.801987
+(2717,)
+SDP_att_predictions F1_score: 82.16% >>>
+New epoch 26
+epoch Train loss 16.7502414621
+Epoch Train Accuracy 0.979541986726
+Validation Loss:  0.216843
+Validation accuracy : 0.9375
+rec_cnv3_filter_valid_predictions F1_score: 94.53% >>>
+./save/SDP_att_valid/model.ckpt01234567891011121314151617181920212223242526
+Test Loss:  0.994859
+test accuracy : 0.801251
+(2717,)
+SDP_att_predictions F1_score: 82.14% >>>
+New epoch 27
+epoch Train loss 15.4436445432
+Epoch Train Accuracy 0.981526720842
+Validation Loss:  0.224015
+Validation accuracy : 0.9275
+rec_cnv3_filter_valid_predictions F1_score: 93.55% >>>
+./save/SDP_att_valid/model.ckpt0123456789101112131415161718192021222324252627
+Test Loss:  0.985164
+test accuracy : 0.803828
+(2717,)
+SDP_att_predictions F1_score: 82.44% >>>
+New epoch 28
+epoch Train loss 14.069026588
+Epoch Train Accuracy 0.981679392907
+Validation Loss:  0.222795
+Validation accuracy : 0.92375
+rec_cnv3_filter_valid_predictions F1_score: 93.06% >>>
+./save/SDP_att_valid/model.ckpt012345678910111213141516171819202122232425262728
+Test Loss:  1.00653
+test accuracy : 0.80346
+(2717,)
+SDP_att_predictions F1_score: 82.49% >>>
+New epoch 29
+epoch Train loss 14.2964593461
+Epoch Train Accuracy 0.981832065428
+Validation Loss:  0.211425
+Validation accuracy : 0.9375
+rec_cnv3_filter_valid_predictions F1_score: 93.85% >>>
+./save/SDP_att_valid/model.ckpt01234567891011121314151617181920212223242526272829
+Test Loss:  1.02463
+test accuracy : 0.801987
+(2717,)
+SDP_att_predictions F1_score: 82.29% >>>
+New epoch 30
+epoch Train loss 13.4691804517
+Epoch Train Accuracy 0.983282445951
+Validation Loss:  0.220618
+Validation accuracy : 0.93625
+rec_cnv3_filter_valid_predictions F1_score: 93.84% >>>
+./save/SDP_att_valid/model.ckpt0123456789101112131415161718192021222324252627282930
+Test Loss:  1.03563
+test accuracy : 0.799411
+(2717,)
+SDP_att_predictions F1_score: 82.00% >>>
+New epoch 31
+epoch Train loss 12.954441329
+Epoch Train Accuracy 0.984503822245
+Validation Loss:  0.209176
+Validation accuracy : 0.935
+rec_cnv3_filter_valid_predictions F1_score: 94.01% >>>
+./save/SDP_att_valid/model.ckpt012345678910111213141516171819202122232425262728293031
+Test Loss:  1.02112
+test accuracy : 0.804196
+(2717,)
+SDP_att_predictions F1_score: 82.34% >>>
+New epoch 32
+epoch Train loss 12.97930696
+Epoch Train Accuracy 0.983969469789
+Validation Loss:  0.211774
+Validation accuracy : 0.94125
+rec_cnv3_filter_valid_predictions F1_score: 94.68% >>>
+./save/SDP_att_valid/model.ckpt01234567891011121314151617181920212223242526272829303132
+Test Loss:  1.03404
+test accuracy : 0.80346
+(2717,)
+SDP_att_predictions F1_score: 82.32% >>>
+New epoch 33
+epoch Train loss 10.9528347356
+Epoch Train Accuracy 0.986183209729
+Validation Loss:  0.222548
+Validation accuracy : 0.93375
+rec_cnv3_filter_valid_predictions F1_score: 94.26% >>>
+./save/SDP_att_valid/model.ckpt0123456789101112131415161718192021222324252627282930313233
+Test Loss:  1.01908
+test accuracy : 0.808244
+(2717,)
+SDP_att_predictions F1_score: 82.45% >>>
+New epoch 34
+epoch Train loss 10.8057439679
+Epoch Train Accuracy 0.987328248625
+Validation Loss:  0.218202
+Validation accuracy : 0.93
+rec_cnv3_filter_valid_predictions F1_score: 93.95% >>>
+./save/SDP_att_valid/model.ckpt012345678910111213141516171819202122232425262728293031323334
+Test Loss:  1.04383
+test accuracy : 0.802724
+(2717,)
+SDP_att_predictions F1_score: 82.21% >>>
+New epoch 35
+epoch Train loss 10.7841044327
+Epoch Train Accuracy 0.986641225924
+Validation Loss:  0.2111
+Validation accuracy : 0.93125
+rec_cnv3_filter_valid_predictions F1_score: 94.06% >>>
+./save/SDP_att_valid/model.ckpt01234567891011121314151617181920212223242526272829303132333435
+Test Loss:  1.05795
+test accuracy : 0.802356
+(2717,)
+SDP_att_predictions F1_score: 82.22% >>>
+New epoch 36
+epoch Train loss 10.7049544922
+Epoch Train Accuracy 0.986946568689
+Validation Loss:  0.215294
+Validation accuracy : 0.9325
+rec_cnv3_filter_valid_predictions F1_score: 93.87% >>>
+./save/SDP_att_valid/model.ckpt0123456789101112131415161718192021222324252627282930313233343536
+Test Loss:  1.06878
+test accuracy : 0.802724
+(2717,)
+SDP_att_predictions F1_score: 82.24% >>>
+New epoch 37
+epoch Train loss 10.0116822724
+Epoch Train Accuracy 0.98809160895
+Validation Loss:  0.198005
+Validation accuracy : 0.93625
+rec_cnv3_filter_valid_predictions F1_score: 94.09% >>>
+./save/SDP_att_valid/model.ckpt012345678910111213141516171819202122232425262728293031323334353637
+Test Loss:  1.08243
+test accuracy : 0.800883
+(2717,)
+SDP_att_predictions F1_score: 82.23% >>>
+New epoch 38
+epoch Train loss 9.95925860759
+Epoch Train Accuracy 0.987328248625
+Validation Loss:  0.206257
+Validation accuracy : 0.93625
+rec_cnv3_filter_valid_predictions F1_score: 94.06% >>>
+./save/SDP_att_valid/model.ckpt01234567891011121314151617181920212223242526272829303132333435363738
+Test Loss:  1.0753
+test accuracy : 0.801987
+(2717,)
+SDP_att_predictions F1_score: 82.19% >>>
+New epoch 39
+epoch Train loss 9.56503665261
+Epoch Train Accuracy 0.988167943618
+Validation Loss:  0.212543
+Validation accuracy : 0.93625
+rec_cnv3_filter_valid_predictions F1_score: 94.27% >>>
+./save/SDP_att_valid/model.ckpt0123456789101112131415161718192021222324252627282930313233343536373839
+Test Loss:  1.06138
+test accuracy : 0.8053
+(2717,)
+SDP_att_predictions F1_score: 82.37% >>>
+New epoch 40
+epoch Train loss 9.85972896323
+Epoch Train Accuracy 0.988167943163
+Validation Loss:  0.211388
+Validation accuracy : 0.9375
+rec_cnv3_filter_valid_predictions F1_score: 94.38% >>>
+./save/SDP_att_valid/model.ckpt012345678910111213141516171819202122232425262728293031323334353637383940
+Test Loss:  1.06446
+test accuracy : 0.804932
+(2717,)
+SDP_att_predictions F1_score: 82.36% >>>
+New epoch 41
+epoch Train loss 9.46407824964
+Epoch Train Accuracy 0.987862599488
+Validation Loss:  0.210513
+Validation accuracy : 0.9375
+rec_cnv3_filter_valid_predictions F1_score: 94.36% >>>
+./save/SDP_att_valid/model.ckpt01234567891011121314151617181920212223242526272829303132333435363738394041
+Test Loss:  1.06685
+test accuracy : 0.8053
+(2717,)
+SDP_att_predictions F1_score: 82.39% >>>
+New epoch 42
+epoch Train loss 9.65158236679
+Epoch Train Accuracy 0.987709929697
+Validation Loss:  0.209518
+Validation accuracy : 0.9375
+rec_cnv3_filter_valid_predictions F1_score: 94.36% >>>
+./save/SDP_att_valid/model.ckpt0123456789101112131415161718192021222324252627282930313233343536373839404142
+Test Loss:  1.06909
+test accuracy : 0.804932
+(2717,)
+SDP_att_predictions F1_score: 82.35% >>>
+New epoch 43
+epoch Train loss 9.46045996808
+Epoch Train Accuracy 0.987786261862
+Validation Loss:  0.208821
+Validation accuracy : 0.9375
+rec_cnv3_filter_valid_predictions F1_score: 94.36% >>>
+./save/SDP_att_valid/model.ckpt012345678910111213141516171819202122232425262728293031323334353637383940414243
+Test Loss:  1.07
+test accuracy : 0.804564
+(2717,)
+SDP_att_predictions F1_score: 82.33% >>>
+New epoch 44
+epoch Train loss 9.62565311091
+Epoch Train Accuracy 0.988549622416
+Validation Loss:  0.208231
+Validation accuracy : 0.9375
+rec_cnv3_filter_valid_predictions F1_score: 94.36% >>>
+./save/SDP_att_valid/model.ckpt01234567891011121314151617181920212223242526272829303132333435363738394041424344
+Test Loss:  1.07143
+test accuracy : 0.804564
+(2717,)
+SDP_att_predictions F1_score: 82.31% >>>
+New epoch 45
+epoch Train loss 8.48522855877
+Epoch Train Accuracy 0.990839698842
+Validation Loss:  0.207823
+Validation accuracy : 0.9375
+rec_cnv3_filter_valid_predictions F1_score: 94.36% >>>
+./save/SDP_att_valid/model.ckpt0123456789101112131415161718192021222324252627282930313233343536373839404142434445
+Test Loss:  1.07214
+test accuracy : 0.804196
+(2717,)
+SDP_att_predictions F1_score: 82.34% >>>
+New epoch 46
+epoch Train loss 9.8525631479
+Epoch Train Accuracy 0.987862599488
+Validation Loss:  0.207433
+Validation accuracy : 0.9375
+rec_cnv3_filter_valid_predictions F1_score: 94.36% >>>
+./save/SDP_att_valid/model.ckpt012345678910111213141516171819202122232425262728293031323334353637383940414243444546
+Test Loss:  1.07311
+test accuracy : 0.803828
+(2717,)
+SDP_att_predictions F1_score: 82.28% >>>
+New epoch 47
+epoch Train loss 7.93389376416
+Epoch Train Accuracy 0.991679392471
+Validation Loss:  0.20714
+Validation accuracy : 0.9375
+rec_cnv3_filter_valid_predictions F1_score: 94.36% >>>
+./save/SDP_att_valid/model.ckpt01234567891011121314151617181920212223242526272829303132333435363738394041424344454647
+Test Loss:  1.07375
+test accuracy : 0.803828
+(2717,)
+SDP_att_predictions F1_score: 82.28% >>>
+New epoch 48
+epoch Train loss 8.62951377616
+Epoch Train Accuracy 0.989312981376
+Validation Loss:  0.207054
+Validation accuracy : 0.9375
+rec_cnv3_filter_valid_predictions F1_score: 94.36% >>>
+./save/SDP_att_valid/model.ckpt0123456789101112131415161718192021222324252627282930313233343536373839404142434445464748
+Test Loss:  1.07417
+test accuracy : 0.803828
+(2717,)
+SDP_att_predictions F1_score: 82.28% >>>
+New epoch 49
+epoch Train loss 9.11704014265
+Epoch Train Accuracy 0.989694660629
+Validation Loss:  0.207075
+Validation accuracy : 0.9375
+rec_cnv3_filter_valid_predictions F1_score: 94.36% >>>
+./save/SDP_att_valid/model.ckpt012345678910111213141516171819202122232425262728293031323334353637383940414243444546474849
+Test Loss:  1.0737
+test accuracy : 0.803828
+(2717,)
+SDP_att_predictions F1_score: 82.28% >>>
+New epoch 50
+epoch Train loss 9.63589247875
+Epoch Train Accuracy 0.988244277375
+Validation Loss:  0.206761
+Validation accuracy : 0.9375
+rec_cnv3_filter_valid_predictions F1_score: 94.36% >>>
+./save/SDP_att_valid/model.ckpt01234567891011121314151617181920212223242526272829303132333435363738394041424344454647484950
+Test Loss:  1.07467
+test accuracy : 0.803092
+(2717,)
+SDP_att_predictions F1_score: 82.24% >>>
+New epoch 51
+epoch Train loss 8.97955776984
+Epoch Train Accuracy 0.989389316499
+Validation Loss:  0.206626
+Validation accuracy : 0.9375
+rec_cnv3_filter_valid_predictions F1_score: 94.36% >>>
+./save/SDP_att_valid/model.ckpt0123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051
+Test Loss:  1.07522
+test accuracy : 0.803092
+(2717,)
+SDP_att_predictions F1_score: 82.24% >>>
+New epoch 52
+epoch Train loss 8.90881020576
+Epoch Train Accuracy 0.988625958448
+Validation Loss:  0.206607
+Validation accuracy : 0.9375
+rec_cnv3_filter_valid_predictions F1_score: 94.36% >>>
+./save/SDP_att_valid/model.ckpt012345678910111213141516171819202122232425262728293031323334353637383940414243444546474849505152
+Test Loss:  1.07552
+test accuracy : 0.803092
+(2717,)
+SDP_att_predictions F1_score: 82.24% >>>
+New epoch 53
+epoch Train loss 8.69576086244
+Epoch Train Accuracy 0.9904580205
+Validation Loss:  0.206527
+Validation accuracy : 0.9375
+rec_cnv3_filter_valid_predictions F1_score: 94.36% >>>
+./save/SDP_att_valid/model.ckpt01234567891011121314151617181920212223242526272829303132333435363738394041424344454647484950515253
+Test Loss:  1.07591
+test accuracy : 0.803092
+(2717,)
+SDP_att_predictions F1_score: 82.24% >>>
+New epoch 54
+epoch Train loss 9.43458393891
+Epoch Train Accuracy 0.988091606903
+Validation Loss:  0.206522
+Validation accuracy : 0.9375
+rec_cnv3_filter_valid_predictions F1_score: 94.36% >>>
+./save/SDP_att_valid/model.ckpt0123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354
+Test Loss:  1.07583
+test accuracy : 0.803092
+(2717,)
+SDP_att_predictions F1_score: 82.24% >>>
+New epoch 55
+epoch Train loss 8.1774979555
+Epoch Train Accuracy 0.990076340109
+Validation Loss:  0.206354
+Validation accuracy : 0.9375
+rec_cnv3_filter_valid_predictions F1_score: 94.36% >>>
+./save/SDP_att_valid/model.ckpt012345678910111213141516171819202122232425262728293031323334353637383940414243444546474849505152535455
+Test Loss:  1.07598
+test accuracy : 0.803092
+(2717,)
+SDP_att_predictions F1_score: 82.24% >>>
+New epoch 56
+epoch Train loss 9.25391438394
+Epoch Train Accuracy 0.988778629831
+Validation Loss:  0.2044
+Validation accuracy : 0.935
+rec_cnv3_filter_valid_predictions F1_score: 94.01% >>>
+./save/SDP_att_valid/model.ckpt01234567891011121314151617181920212223242526272829303132333435363738394041424344454647484950515253545556
+Test Loss:  1.08497
+test accuracy : 0.802356
+(2717,)
+SDP_att_predictions F1_score: 82.16% >>>
+New epoch 57
+epoch Train loss 8.44039248512
+Epoch Train Accuracy 0.990534356305
+Validation Loss:  0.20237
+Validation accuracy : 0.94
+rec_cnv3_filter_valid_predictions F1_score: 94.34% >>>
+./save/SDP_att_valid/model.ckpt0123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657
+Test Loss:  1.07449
+test accuracy : 0.807876
+(2717,)
+SDP_att_predictions F1_score: 82.61% >>>
+New epoch 58
+epoch Train loss 8.54051377391
+Epoch Train Accuracy 0.989312982741
+Validation Loss:  0.198097
+Validation accuracy : 0.93625
+rec_cnv3_filter_valid_predictions F1_score: 94.14% >>>
+./save/SDP_att_valid/model.ckpt012345678910111213141516171819202122232425262728293031323334353637383940414243444546474849505152535455565758
+Test Loss:  1.07907
+test accuracy : 0.80714
+(2717,)
+SDP_att_predictions F1_score: 82.62% >>>
+New epoch 59
+epoch Train loss 8.95302376105
+Epoch Train Accuracy 0.990076340337
+Validation Loss:  0.197243
+Validation accuracy : 0.9375
+rec_cnv3_filter_valid_predictions F1_score: 94.18% >>>
+./save/SDP_att_valid/model.ckpt01234567891011121314151617181920212223242526272829303132333435363738394041424344454647484950515253545556575859
+Test Loss:  1.07672
+test accuracy : 0.806036
+(2717,)
+SDP_att_predictions F1_score: 82.39% >>>
+New epoch 60
+epoch Train loss 8.23894895264
+Epoch Train Accuracy 0.990076340109
+Validation Loss:  0.198181
+Validation accuracy : 0.93625
+rec_cnv3_filter_valid_predictions F1_score: 93.96% >>>
+./save/SDP_att_valid/model.ckpt0123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960
+Test Loss:  1.10589
+test accuracy : 0.801987
+(2717,)
+SDP_att_predictions F1_score: 82.12% >>>
+New epoch 61
+epoch Train loss 7.66874044365
+Epoch Train Accuracy 0.990992369998
+Validation Loss:  0.197696
+Validation accuracy : 0.93625
+rec_cnv3_filter_valid_predictions F1_score: 94.04% >>>
+./save/SDP_att_valid/model.ckpt012345678910111213141516171819202122232425262728293031323334353637383940414243444546474849505152535455565758596061
+Test Loss:  1.08328
+test accuracy : 0.804564
+(2717,)
+SDP_att_predictions F1_score: 82.26% >>>
+New epoch 62
+epoch Train loss 8.1108634643
+Epoch Train Accuracy 0.989770995752
+Validation Loss:  0.190533
+Validation accuracy : 0.9375
+rec_cnv3_filter_valid_predictions F1_score: 94.23% >>>
+./save/SDP_att_valid/model.ckpt01234567891011121314151617181920212223242526272829303132333435363738394041424344454647484950515253545556575859606162
+Test Loss:  1.10854
+test accuracy : 0.804196
+(2717,)
+SDP_att_predictions F1_score: 82.37% >>>
+New epoch 63
+epoch Train loss 8.59881510888
+Epoch Train Accuracy 0.989694660857
+Validation Loss:  0.201073
+Validation accuracy : 0.93875
+rec_cnv3_filter_valid_predictions F1_score: 94.51% >>>
+./save/SDP_att_valid/model.ckpt0123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960616263
+Test Loss:  1.09665
+test accuracy : 0.801619
+(2717,)
+SDP_att_predictions F1_score: 82.07% >>>
+New epoch 64
+epoch Train loss 7.88665879425
+Epoch Train Accuracy 0.990916035558
+Validation Loss:  0.20071
+Validation accuracy : 0.935
+rec_cnv3_filter_valid_predictions F1_score: 94.44% >>>
+./save/SDP_att_valid/model.ckpt012345678910111213141516171819202122232425262728293031323334353637383940414243444546474849505152535455565758596061626364
+Test Loss:  1.08079
+test accuracy : 0.804932
+(2717,)
+SDP_att_predictions F1_score: 82.34% >>>
+New epoch 65
+epoch Train loss 8.71184077719
+Epoch Train Accuracy 0.989236645799
+Validation Loss:  0.192652
+Validation accuracy : 0.94
+rec_cnv3_filter_valid_predictions F1_score: 94.47% >>>
+./save/SDP_att_valid/model.ckpt01234567891011121314151617181920212223242526272829303132333435363738394041424344454647484950515253545556575859606162636465
+Test Loss:  1.10117
+test accuracy : 0.806036
+(2717,)
+SDP_att_predictions F1_score: 82.64% >>>
+New epoch 66
+epoch Train loss 8.0877245646
+Epoch Train Accuracy 0.991221377185
+Validation Loss:  0.194087
+Validation accuracy : 0.9375
+rec_cnv3_filter_valid_predictions F1_score: 94.45% >>>
+./save/SDP_att_valid/model.ckpt0123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960616263646566
+Test Loss:  1.11516
+test accuracy : 0.80346
+(2717,)
+SDP_att_predictions F1_score: 82.32% >>>
+New epoch 67
+epoch Train loss 8.43654325372
+Epoch Train Accuracy 0.988778630968
+Validation Loss:  0.194903
+Validation accuracy : 0.9375
+rec_cnv3_filter_valid_predictions F1_score: 94.23% >>>
+./save/SDP_att_valid/model.ckpt012345678910111213141516171819202122232425262728293031323334353637383940414243444546474849505152535455565758596061626364656667
+Test Loss:  1.1039
+test accuracy : 0.802356
+(2717,)
+SDP_att_predictions F1_score: 82.17% >>>
+New epoch 68
+epoch Train loss 6.99376882636
+Epoch Train Accuracy 0.991984736146
+Validation Loss:  0.196703
+Validation accuracy : 0.93875
+rec_cnv3_filter_valid_predictions F1_score: 94.49% >>>
+./save/SDP_att_valid/model.ckpt01234567891011121314151617181920212223242526272829303132333435363738394041424344454647484950515253545556575859606162636465666768
+Test Loss:  1.1069
+test accuracy : 0.804932
+(2717,)
+SDP_att_predictions F1_score: 82.35% >>>
+New epoch 69
+epoch Train loss 6.57151247002
+Epoch Train Accuracy 0.993206110619
+Validation Loss:  0.198378
+Validation accuracy : 0.9375
+rec_cnv3_filter_valid_predictions F1_score: 94.39% >>>
+./save/SDP_att_valid/model.ckpt0123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960616263646566676869
+Test Loss:  1.09588
+test accuracy : 0.808244
+(2717,)
+SDP_att_predictions F1_score: 82.61% >>>
+New epoch 70
+epoch Train loss 6.86011469201
+Epoch Train Accuracy 0.992748096244
+Validation Loss:  0.198581
+Validation accuracy : 0.93625
+rec_cnv3_filter_valid_predictions F1_score: 94.08% >>>
+./save/SDP_att_valid/model.ckpt012345678910111213141516171819202122232425262728293031323334353637383940414243444546474849505152535455565758596061626364656667686970
+Test Loss:  1.10931
+test accuracy : 0.804196
+(2717,)
+SDP_att_predictions F1_score: 82.32% >>>
+New epoch 71
+epoch Train loss 7.65002919943
+Epoch Train Accuracy 0.989923667362
+Validation Loss:  0.209139
+Validation accuracy : 0.9325
+rec_cnv3_filter_valid_predictions F1_score: 93.84% >>>
+./save/SDP_att_valid/model.ckpt01234567891011121314151617181920212223242526272829303132333435363738394041424344454647484950515253545556575859606162636465666768697071
+Test Loss:  1.07972
+test accuracy : 0.810453
+(2717,)
+SDP_att_predictions F1_score: 82.70% >>>
+New epoch 72
+epoch Train loss 7.29861416982
+Epoch Train Accuracy 0.99106870694
+Validation Loss:  0.194223
+Validation accuracy : 0.9375
+rec_cnv3_filter_valid_predictions F1_score: 94.31% >>>
+./save/SDP_att_valid/model.ckpt0123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960616263646566676869707172
+Test Loss:  1.10648
+test accuracy : 0.808244
+(2717,)
+SDP_att_predictions F1_score: 82.69% >>>
+New epoch 73
+epoch Train loss 6.64473515516
+Epoch Train Accuracy 0.992061071723
+Validation Loss:  0.198156
+Validation accuracy : 0.93625
+rec_cnv3_filter_valid_predictions F1_score: 94.25% >>>
+./save/SDP_att_valid/model.ckpt012345678910111213141516171819202122232425262728293031323334353637383940414243444546474849505152535455565758596061626364656667686970717273
+Test Loss:  1.10623
+test accuracy : 0.806404
+(2717,)
+SDP_att_predictions F1_score: 82.45% >>>
+New epoch 74
+epoch Train loss 7.13400262117
+Epoch Train Accuracy 0.992977102749
+Validation Loss:  0.195479
+Validation accuracy : 0.9375
+rec_cnv3_filter_valid_predictions F1_score: 94.39% >>>
+./save/SDP_att_valid/model.ckpt01234567891011121314151617181920212223242526272829303132333435363738394041424344454647484950515253545556575859606162636465666768697071727374
+Test Loss:  1.11668
+test accuracy : 0.803828
+(2717,)
+SDP_att_predictions F1_score: 82.27% >>>
+New epoch 75
+epoch Train loss 6.61963393423
+Epoch Train Accuracy 0.992061073088
+Validation Loss:  0.196859
+Validation accuracy : 0.93875
+rec_cnv3_filter_valid_predictions F1_score: 94.33% >>>
+./save/SDP_att_valid/model.ckpt0123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960616263646566676869707172737475
+Test Loss:  1.11706
+test accuracy : 0.804564
+(2717,)
+SDP_att_predictions F1_score: 82.31% >>>
+New epoch 76
+epoch Train loss 6.97376673622
+Epoch Train Accuracy 0.992137407074
+Validation Loss:  0.191929
+Validation accuracy : 0.94
+rec_cnv3_filter_valid_predictions F1_score: 94.49% >>>
+./save/SDP_att_valid/model.ckpt012345678910111213141516171819202122232425262728293031323334353637383940414243444546474849505152535455565758596061626364656667686970717273747576
+Test Loss:  1.11992
+test accuracy : 0.804932
+(2717,)
+SDP_att_predictions F1_score: 82.46% >>>
+New epoch 77
+epoch Train loss 6.16024202143
+Epoch Train Accuracy 0.993435118262
+Validation Loss:  0.194808
+Validation accuracy : 0.9375
+rec_cnv3_filter_valid_predictions F1_score: 94.39% >>>
+./save/SDP_att_valid/model.ckpt01234567891011121314151617181920212223242526272829303132333435363738394041424344454647484950515253545556575859606162636465666768697071727374757677
+Test Loss:  1.11499
+test accuracy : 0.804196
+(2717,)
+SDP_att_predictions F1_score: 82.35% >>>
+New epoch 78
+epoch Train loss 6.40857681434
+Epoch Train Accuracy 0.992671759984
+Validation Loss:  0.195662
+Validation accuracy : 0.93875
+rec_cnv3_filter_valid_predictions F1_score: 94.49% >>>
+./save/SDP_att_valid/model.ckpt0123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960616263646566676869707172737475767778
+Test Loss:  1.11992
+test accuracy : 0.806404
+(2717,)
+SDP_att_predictions F1_score: 82.55% >>>
+New epoch 79
+epoch Train loss 6.75582128565
+Epoch Train Accuracy 0.99129771481
+Validation Loss:  0.193194
+Validation accuracy : 0.94125
+rec_cnv3_filter_valid_predictions F1_score: 94.63% >>>
+./save/SDP_att_valid/model.ckpt012345678910111213141516171819202122232425262728293031323334353637383940414243444546474849505152535455565758596061626364656667686970717273747576777879
+Test Loss:  1.12311
+test accuracy : 0.8053
+(2717,)
+SDP_att_predictions F1_score: 82.50% >>>
+New epoch 80
+epoch Train loss 6.84561821655
+Epoch Train Accuracy 0.992748094652
+Validation Loss:  0.193384
+Validation accuracy : 0.93875
+rec_cnv3_filter_valid_predictions F1_score: 94.43% >>>
+./save/SDP_att_valid/model.ckpt01234567891011121314151617181920212223242526272829303132333435363738394041424344454647484950515253545556575859606162636465666768697071727374757677787980
+Test Loss:  1.11839
+test accuracy : 0.805668
+(2717,)
+SDP_att_predictions F1_score: 82.50% >>>
+New epoch 81
+epoch Train loss 6.55596675724
+Epoch Train Accuracy 0.992442751659
+Validation Loss:  0.191803
+Validation accuracy : 0.9375
+rec_cnv3_filter_valid_predictions F1_score: 94.24% >>>
+./save/SDP_att_valid/model.ckpt0123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960616263646566676869707172737475767778798081
+Test Loss:  1.1257
+test accuracy : 0.80714
+(2717,)
+SDP_att_predictions F1_score: 82.61% >>>
+New epoch 82
+epoch Train loss 6.66779753007
+Epoch Train Accuracy 0.992366416081
+Validation Loss:  0.196035
+Validation accuracy : 0.93625
+rec_cnv3_filter_valid_predictions F1_score: 94.20% >>>
+./save/SDP_att_valid/model.ckpt012345678910111213141516171819202122232425262728293031323334353637383940414243444546474849505152535455565758596061626364656667686970717273747576777879808182
+Test Loss:  1.11914
+test accuracy : 0.804196
+(2717,)
+SDP_att_predictions F1_score: 82.31% >>>
+New epoch 83
+epoch Train loss 6.12075565231
+Epoch Train Accuracy 0.993053437644
+Validation Loss:  0.193369
+Validation accuracy : 0.9375
+rec_cnv3_filter_valid_predictions F1_score: 94.25% >>>
+./save/SDP_att_valid/model.ckpt01234567891011121314151617181920212223242526272829303132333435363738394041424344454647484950515253545556575859606162636465666768697071727374757677787980818283
+Test Loss:  1.12316
+test accuracy : 0.806036
+(2717,)
+SDP_att_predictions F1_score: 82.51% >>>
+New epoch 84
+epoch Train loss 6.87751771847
+Epoch Train Accuracy 0.990839698842
+Validation Loss:  0.191588
+Validation accuracy : 0.9375
+rec_cnv3_filter_valid_predictions F1_score: 94.24% >>>
+./save/SDP_att_valid/model.ckpt0123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960616263646566676869707172737475767778798081828384
+Test Loss:  1.12304
+test accuracy : 0.808612
+(2717,)
+SDP_att_predictions F1_score: 82.73% >>>
+New epoch 85
+epoch Train loss 6.70858666673
+Epoch Train Accuracy 0.992137409576
+Validation Loss:  0.193294
+Validation accuracy : 0.93625
+rec_cnv3_filter_valid_predictions F1_score: 93.99% >>>
+./save/SDP_att_valid/model.ckpt012345678910111213141516171819202122232425262728293031323334353637383940414243444546474849505152535455565758596061626364656667686970717273747576777879808182838485
+Test Loss:  1.11998
+test accuracy : 0.806772
+(2717,)
+SDP_att_predictions F1_score: 82.54% >>>
+New epoch 86
+epoch Train loss 7.32603252417
+Epoch Train Accuracy 0.990839699752
+Validation Loss:  0.191231
+Validation accuracy : 0.94
+rec_cnv3_filter_valid_predictions F1_score: 94.48% >>>
+./save/SDP_att_valid/model.ckpt01234567891011121314151617181920212223242526272829303132333435363738394041424344454647484950515253545556575859606162636465666768697071727374757677787980818283848586
+Test Loss:  1.1235
+test accuracy : 0.80714
+(2717,)
+SDP_att_predictions F1_score: 82.53% >>>
+New epoch 87
+epoch Train loss 6.67567068362
+Epoch Train Accuracy 0.991374049023
+Validation Loss:  0.190696
+Validation accuracy : 0.9375
+rec_cnv3_filter_valid_predictions F1_score: 94.08% >>>
+./save/SDP_att_valid/model.ckpt0123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960616263646566676869707172737475767778798081828384858687
+Test Loss:  1.12088
+test accuracy : 0.807876
+(2717,)
+SDP_att_predictions F1_score: 82.63% >>>
+New epoch 88
+epoch Train loss 5.7488488002
+Epoch Train Accuracy 0.993816797515
+Validation Loss:  0.191243
+Validation accuracy : 0.9375
+rec_cnv3_filter_valid_predictions F1_score: 94.25% >>>
+./save/SDP_att_valid/model.ckpt012345678910111213141516171819202122232425262728293031323334353637383940414243444546474849505152535455565758596061626364656667686970717273747576777879808182838485868788
+Test Loss:  1.12432
+test accuracy : 0.80714
+(2717,)
+SDP_att_predictions F1_score: 82.53% >>>
+New epoch 89
+epoch Train loss 5.90282581432
+Epoch Train Accuracy 0.993435118717
+Validation Loss:  0.191898
+Validation accuracy : 0.93875
+rec_cnv3_filter_valid_predictions F1_score: 94.34% >>>
+./save/SDP_att_valid/model.ckpt01234567891011121314151617181920212223242526272829303132333435363738394041424344454647484950515253545556575859606162636465666768697071727374757677787980818283848586878889
+Test Loss:  1.12145
+test accuracy : 0.805668
+(2717,)
+SDP_att_predictions F1_score: 82.41% >>>
+New epoch 90
+epoch Train loss 6.28514865716
+Epoch Train Accuracy 0.992595423496
+Validation Loss:  0.191191
+Validation accuracy : 0.93875
+rec_cnv3_filter_valid_predictions F1_score: 94.34% >>>
+./save/SDP_att_valid/model.ckpt0123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960616263646566676869707172737475767778798081828384858687888990
+Test Loss:  1.1214
+test accuracy : 0.806036
+(2717,)
+SDP_att_predictions F1_score: 82.43% >>>
+New epoch 91
+epoch Train loss 6.23122474639
+Epoch Train Accuracy 0.99374046171
+Validation Loss:  0.191916
+Validation accuracy : 0.93875
+rec_cnv3_filter_valid_predictions F1_score: 94.33% >>>
+./save/SDP_att_valid/model.ckpt012345678910111213141516171819202122232425262728293031323334353637383940414243444546474849505152535455565758596061626364656667686970717273747576777879808182838485868788899091
+Test Loss:  1.12118
+test accuracy : 0.8053
+(2717,)
+SDP_att_predictions F1_score: 82.37% >>>
+New epoch 92
+epoch Train loss 6.52038260223
+Epoch Train Accuracy 0.991908399886
+Validation Loss:  0.191815
+Validation accuracy : 0.93875
+rec_cnv3_filter_valid_predictions F1_score: 94.33% >>>
+./save/SDP_att_valid/model.ckpt01234567891011121314151617181920212223242526272829303132333435363738394041424344454647484950515253545556575859606162636465666768697071727374757677787980818283848586878889909192
+Test Loss:  1.12231
+test accuracy : 0.805668
+(2717,)
+SDP_att_predictions F1_score: 82.42% >>>
+New epoch 93
+epoch Train loss 6.63170484861
+Epoch Train Accuracy 0.993435119172
+Validation Loss:  0.192869
+Validation accuracy : 0.93875
+rec_cnv3_filter_valid_predictions F1_score: 94.33% >>>
+./save/SDP_att_valid/model.ckpt0123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960616263646566676869707172737475767778798081828384858687888990919293
+Test Loss:  1.11651
+test accuracy : 0.8053
+(2717,)
+SDP_att_predictions F1_score: 82.41% >>>
+New epoch 94
+epoch Train loss 5.99487792281
+Epoch Train Accuracy 0.99381679797
+Validation Loss:  0.19322
+Validation accuracy : 0.93875
+rec_cnv3_filter_valid_predictions F1_score: 94.33% >>>
+./save/SDP_att_valid/model.ckpt012345678910111213141516171819202122232425262728293031323334353637383940414243444546474849505152535455565758596061626364656667686970717273747576777879808182838485868788899091929394
+Test Loss:  1.11664
+test accuracy : 0.804196
+(2717,)
+SDP_att_predictions F1_score: 82.30% >>>
+New epoch 95
+epoch Train loss 6.88099148648
+Epoch Train Accuracy 0.992290080731
+Validation Loss:  0.193386
+Validation accuracy : 0.93875
+rec_cnv3_filter_valid_predictions F1_score: 94.33% >>>
+./save/SDP_att_valid/model.ckpt01234567891011121314151617181920212223242526272829303132333435363738394041424344454647484950515253545556575859606162636465666768697071727374757677787980818283848586878889909192939495
+Test Loss:  1.11785
+test accuracy : 0.804932
+(2717,)
+SDP_att_predictions F1_score: 82.38% >>>
+New epoch 96
+epoch Train loss 6.28662749287
+Epoch Train Accuracy 0.993893133092
+Validation Loss:  0.19353
+Validation accuracy : 0.93875
+rec_cnv3_filter_valid_predictions F1_score: 94.33% >>>
+./save/SDP_att_valid/model.ckpt0123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960616263646566676869707172737475767778798081828384858687888990919293949596
+Test Loss:  1.11658
+test accuracy : 0.804196
+(2717,)
+SDP_att_predictions F1_score: 82.30% >>>
+New epoch 97
+epoch Train loss 6.21870935406
+Epoch Train Accuracy 0.99351145566
+Validation Loss:  0.192859
+Validation accuracy : 0.93875
+rec_cnv3_filter_valid_predictions F1_score: 94.33% >>>
+./save/SDP_att_valid/model.ckpt012345678910111213141516171819202122232425262728293031323334353637383940414243444546474849505152535455565758596061626364656667686970717273747576777879808182838485868788899091929394959697
+Test Loss:  1.11707
+test accuracy : 0.804564
+(2717,)
+SDP_att_predictions F1_score: 82.36% >>>
+New epoch 98
+epoch Train loss 6.47193139815
+Epoch Train Accuracy 0.992900766944
+Validation Loss:  0.19259
+Validation accuracy : 0.93875
+rec_cnv3_filter_valid_predictions F1_score: 94.34% >>>
+./save/SDP_att_valid/model.ckpt01234567891011121314151617181920212223242526272829303132333435363738394041424344454647484950515253545556575859606162636465666768697071727374757677787980818283848586878889909192939495969798
+Test Loss:  1.11726
+test accuracy : 0.8053
+(2717,)
+SDP_att_predictions F1_score: 82.43% >>>
+New epoch 99
+epoch Train loss 5.822112686
+Epoch Train Accuracy 0.993664125677
+Validation Loss:  0.192289
+Validation accuracy : 0.93875
+rec_cnv3_filter_valid_predictions F1_score: 94.34% >>>
+./save/SDP_att_valid/model.ckpt0123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960616263646566676869707172737475767778798081828384858687888990919293949596979899
+Test Loss:  1.1182
+test accuracy : 0.804932
+(2717,)
+SDP_att_predictions F1_score: 82.38% >>>
+New epoch 100
+epoch Train loss 6.81799193879
+Epoch Train Accuracy 0.991908401478
+Validation Loss:  0.19248
+Validation accuracy : 0.93875
+rec_cnv3_filter_valid_predictions F1_score: 94.34% >>>
+./save/SDP_att_valid/model.ckpt0123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960616263646566676869707172737475767778798081828384858687888990919293949596979899100
+Test Loss:  1.11662
+test accuracy : 0.804932
+(2717,)
+SDP_att_predictions F1_score: 82.41% >>>
+New epoch 101
+epoch Train loss 5.76681322232
+Epoch Train Accuracy 0.99335878223
+Validation Loss:  0.192104
+Validation accuracy : 0.93875
+rec_cnv3_filter_valid_predictions F1_score: 94.34% >>>
+./save/SDP_att_valid/model.ckpt0123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960616263646566676869707172737475767778798081828384858687888990919293949596979899100101
+Test Loss:  1.11753
+test accuracy : 0.804932
+(2717,)
+SDP_att_predictions F1_score: 82.38% >>>
+New epoch 102
+epoch Train loss 5.52846961003
+Epoch Train Accuracy 0.99442748532
+Validation Loss:  0.192225
+Validation accuracy : 0.93875
+rec_cnv3_filter_valid_predictions F1_score: 94.34% >>>

@@ -1,0 +1,1756 @@
+New epoch 0
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.955036
+Validation accuracy : 0.7175
+maxpool_GR_WN_valid_preds F1_score: 68.55% >>>
+./save/maxpool_GR_WN_valid/model.ckpt0
+Test Loss:  0.983973
+test accuracy : 0.677586
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 69.50% >>>
+
+
+
+
+New epoch 1
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.761255
+Validation accuracy : 0.7775
+maxpool_GR_WN_valid_preds F1_score: 76.53% >>>
+./save/maxpool_GR_WN_valid/model.ckpt1
+Test Loss:  0.89245
+test accuracy : 0.73353
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 77.72% >>>
+
+
+
+
+New epoch 2
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.688698
+Validation accuracy : 0.79875
+maxpool_GR_WN_valid_preds F1_score: 79.58% >>>
+./save/maxpool_GR_WN_valid/model.ckpt2
+Test Loss:  0.65283
+test accuracy : 0.794994
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 81.71% >>>
+
+
+
+
+New epoch 3
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.665747
+Validation accuracy : 0.80375
+maxpool_GR_WN_valid_preds F1_score: 81.31% >>>
+./save/maxpool_GR_WN_valid/model.ckpt3
+Test Loss:  0.569809
+test accuracy : 0.819286
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 82.81% >>>
+
+
+
+
+New epoch 4
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.564968
+Validation accuracy : 0.83125
+maxpool_GR_WN_valid_preds F1_score: 83.48% >>>
+./save/maxpool_GR_WN_valid/model.ckpt4
+Test Loss:  0.782659
+test accuracy : 0.761502
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 80.18% >>>
+
+
+
+
+New epoch 5
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.493721
+Validation accuracy : 0.8325
+maxpool_GR_WN_valid_preds F1_score: 83.37% >>>
+./save/maxpool_GR_WN_valid/model.ckpt5
+Test Loss:  0.67474
+test accuracy : 0.792786
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 81.57% >>>
+
+
+
+
+New epoch 6
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.467565
+Validation accuracy : 0.85
+maxpool_GR_WN_valid_preds F1_score: 84.30% >>>
+./save/maxpool_GR_WN_valid/model.ckpt6
+Test Loss:  0.644881
+test accuracy : 0.813397
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 82.77% >>>
+
+
+
+
+New epoch 7
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.423764
+Validation accuracy : 0.87375
+maxpool_GR_WN_valid_preds F1_score: 86.22% >>>
+./save/maxpool_GR_WN_valid/model.ckpt7
+Test Loss:  0.694234
+test accuracy : 0.807876
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 82.43% >>>
+
+
+
+
+New epoch 8
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.38342
+Validation accuracy : 0.87875
+maxpool_GR_WN_valid_preds F1_score: 87.83% >>>
+./save/maxpool_GR_WN_valid/model.ckpt8
+Test Loss:  0.7031
+test accuracy : 0.810085
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 82.95% >>>
+
+
+
+
+New epoch 9
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.396256
+Validation accuracy : 0.87625
+maxpool_GR_WN_valid_preds F1_score: 86.92% >>>
+./save/maxpool_GR_WN_valid/model.ckpt9
+Test Loss:  0.697051
+test accuracy : 0.81671
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.22% >>>
+
+
+
+
+New epoch 10
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.362432
+Validation accuracy : 0.88875
+maxpool_GR_WN_valid_preds F1_score: 88.40% >>>
+./save/maxpool_GR_WN_valid/model.ckpt10
+Test Loss:  0.684672
+test accuracy : 0.815974
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.10% >>>
+
+
+
+
+New epoch 11
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.343726
+Validation accuracy : 0.89625
+maxpool_GR_WN_valid_preds F1_score: 89.13% >>>
+./save/maxpool_GR_WN_valid/model.ckpt11
+Test Loss:  0.77008
+test accuracy : 0.803828
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 82.41% >>>
+
+
+
+
+New epoch 12
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.332576
+Validation accuracy : 0.8775
+maxpool_GR_WN_valid_preds F1_score: 87.51% >>>
+./save/maxpool_GR_WN_valid/model.ckpt12
+Test Loss:  0.744138
+test accuracy : 0.813029
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 82.78% >>>
+
+
+
+
+New epoch 13
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.329964
+Validation accuracy : 0.89375
+maxpool_GR_WN_valid_preds F1_score: 89.45% >>>
+./save/maxpool_GR_WN_valid/model.ckpt13
+Test Loss:  0.726949
+test accuracy : 0.822598
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.58% >>>
+
+
+
+
+New epoch 14
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.282687
+Validation accuracy : 0.91125
+maxpool_GR_WN_valid_preds F1_score: 90.99% >>>
+./save/maxpool_GR_WN_valid/model.ckpt14
+Test Loss:  0.808324
+test accuracy : 0.810085
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 82.93% >>>
+
+
+
+
+New epoch 15
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.272708
+Validation accuracy : 0.9125
+maxpool_GR_WN_valid_preds F1_score: 90.80% >>>
+./save/maxpool_GR_WN_valid/model.ckpt15
+Test Loss:  0.748252
+test accuracy : 0.826647
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 84.25% >>>
+
+
+
+
+New epoch 16
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.260818
+Validation accuracy : 0.92125
+maxpool_GR_WN_valid_preds F1_score: 91.01% >>>
+./save/maxpool_GR_WN_valid/model.ckpt16
+Test Loss:  0.91611
+test accuracy : 0.805668
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.00% >>>
+
+
+
+
+New epoch 17
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.250258
+Validation accuracy : 0.9175
+maxpool_GR_WN_valid_preds F1_score: 91.28% >>>
+./save/maxpool_GR_WN_valid/model.ckpt17
+Test Loss:  0.795408
+test accuracy : 0.823335
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 84.06% >>>
+
+
+
+
+New epoch 18
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.253808
+Validation accuracy : 0.91375
+maxpool_GR_WN_valid_preds F1_score: 90.78% >>>
+./save/maxpool_GR_WN_valid/model.ckpt18
+Test Loss:  0.851927
+test accuracy : 0.814501
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.38% >>>
+
+
+
+
+New epoch 19
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.247911
+Validation accuracy : 0.92625
+maxpool_GR_WN_valid_preds F1_score: 92.05% >>>
+./save/maxpool_GR_WN_valid/model.ckpt19
+Test Loss:  0.851236
+test accuracy : 0.815237
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.13% >>>
+
+
+
+
+New epoch 20
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.229502
+Validation accuracy : 0.92125
+maxpool_GR_WN_valid_preds F1_score: 91.23% >>>
+./save/maxpool_GR_WN_valid/model.ckpt20
+Test Loss:  0.881986
+test accuracy : 0.814869
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.54% >>>
+
+
+
+
+New epoch 21
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.23981
+Validation accuracy : 0.91875
+maxpool_GR_WN_valid_preds F1_score: 91.27% >>>
+./save/maxpool_GR_WN_valid/model.ckpt21
+Test Loss:  0.869073
+test accuracy : 0.819654
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.62% >>>
+
+
+
+
+New epoch 22
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.23728
+Validation accuracy : 0.9225
+maxpool_GR_WN_valid_preds F1_score: 91.69% >>>
+./save/maxpool_GR_WN_valid/model.ckpt22
+Test Loss:  0.861014
+test accuracy : 0.824439
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 84.07% >>>
+
+
+
+
+New epoch 23
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.200336
+Validation accuracy : 0.935
+maxpool_GR_WN_valid_preds F1_score: 92.82% >>>
+./save/maxpool_GR_WN_valid/model.ckpt23
+Test Loss:  0.854584
+test accuracy : 0.819286
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.59% >>>
+
+
+
+
+New epoch 24
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.198588
+Validation accuracy : 0.9325
+maxpool_GR_WN_valid_preds F1_score: 92.32% >>>
+./save/maxpool_GR_WN_valid/model.ckpt24
+Test Loss:  0.882686
+test accuracy : 0.82223
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.68% >>>
+
+
+
+
+New epoch 25
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.197613
+Validation accuracy : 0.925
+maxpool_GR_WN_valid_preds F1_score: 91.41% >>>
+./save/maxpool_GR_WN_valid/model.ckpt25
+Test Loss:  0.947623
+test accuracy : 0.813397
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.19% >>>
+
+
+
+
+New epoch 26
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.181179
+Validation accuracy : 0.945
+maxpool_GR_WN_valid_preds F1_score: 93.60% >>>
+./save/maxpool_GR_WN_valid/model.ckpt26
+Test Loss:  0.922545
+test accuracy : 0.814501
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.26% >>>
+
+
+
+
+New epoch 27
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.19097
+Validation accuracy : 0.94125
+maxpool_GR_WN_valid_preds F1_score: 93.51% >>>
+./save/maxpool_GR_WN_valid/model.ckpt27
+Test Loss:  0.948389
+test accuracy : 0.813765
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.07% >>>
+
+
+
+
+New epoch 28
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.185572
+Validation accuracy : 0.9425
+maxpool_GR_WN_valid_preds F1_score: 93.89% >>>
+./save/maxpool_GR_WN_valid/model.ckpt28
+Test Loss:  0.909476
+test accuracy : 0.821494
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.71% >>>
+
+
+
+
+New epoch 29
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.187962
+Validation accuracy : 0.94
+maxpool_GR_WN_valid_preds F1_score: 93.36% >>>
+./save/maxpool_GR_WN_valid/model.ckpt29
+Test Loss:  0.936578
+test accuracy : 0.81671
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.43% >>>
+
+
+
+
+New epoch 30
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.183357
+Validation accuracy : 0.9475
+maxpool_GR_WN_valid_preds F1_score: 94.15% >>>
+./save/maxpool_GR_WN_valid/model.ckpt30
+Test Loss:  0.95234
+test accuracy : 0.812661
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 82.89% >>>
+
+
+
+
+New epoch 31
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.185866
+Validation accuracy : 0.9375
+maxpool_GR_WN_valid_preds F1_score: 92.99% >>>
+./save/maxpool_GR_WN_valid/model.ckpt31
+Test Loss:  0.952653
+test accuracy : 0.812661
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.13% >>>
+
+
+
+
+New epoch 32
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.182358
+Validation accuracy : 0.9425
+maxpool_GR_WN_valid_preds F1_score: 93.91% >>>
+./save/maxpool_GR_WN_valid/model.ckpt32
+Test Loss:  0.944718
+test accuracy : 0.818182
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.50% >>>
+
+
+
+
+New epoch 33
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.189336
+Validation accuracy : 0.94125
+maxpool_GR_WN_valid_preds F1_score: 93.70% >>>
+./save/maxpool_GR_WN_valid/model.ckpt33
+Test Loss:  0.930055
+test accuracy : 0.820022
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.48% >>>
+
+
+
+
+New epoch 34
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.184954
+Validation accuracy : 0.9375
+maxpool_GR_WN_valid_preds F1_score: 93.11% >>>
+./save/maxpool_GR_WN_valid/model.ckpt34
+Test Loss:  0.922437
+test accuracy : 0.821494
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.58% >>>
+
+
+
+
+New epoch 35
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.179304
+Validation accuracy : 0.94125
+maxpool_GR_WN_valid_preds F1_score: 93.42% >>>
+./save/maxpool_GR_WN_valid/model.ckpt35
+Test Loss:  0.970357
+test accuracy : 0.820758
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.60% >>>
+
+
+
+
+New epoch 36
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.181366
+Validation accuracy : 0.9475
+maxpool_GR_WN_valid_preds F1_score: 94.36% >>>
+./save/maxpool_GR_WN_valid/model.ckpt36
+Test Loss:  0.946996
+test accuracy : 0.818182
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.39% >>>
+
+
+
+
+New epoch 37
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.182346
+Validation accuracy : 0.94375
+maxpool_GR_WN_valid_preds F1_score: 93.75% >>>
+./save/maxpool_GR_WN_valid/model.ckpt37
+Test Loss:  0.981465
+test accuracy : 0.815974
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.21% >>>
+
+
+
+
+New epoch 38
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.182967
+Validation accuracy : 0.94125
+maxpool_GR_WN_valid_preds F1_score: 93.50% >>>
+./save/maxpool_GR_WN_valid/model.ckpt38
+Test Loss:  0.958895
+test accuracy : 0.818182
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.42% >>>
+
+
+
+
+New epoch 39
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.17161
+Validation accuracy : 0.9425
+maxpool_GR_WN_valid_preds F1_score: 93.57% >>>
+./save/maxpool_GR_WN_valid/model.ckpt39
+Test Loss:  0.984762
+test accuracy : 0.815974
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.35% >>>
+
+
+
+
+New epoch 40
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.171784
+Validation accuracy : 0.945
+maxpool_GR_WN_valid_preds F1_score: 93.74% >>>
+./save/maxpool_GR_WN_valid/model.ckpt40
+Test Loss:  0.979771
+test accuracy : 0.81671
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.42% >>>
+
+
+
+
+New epoch 41
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.172038
+Validation accuracy : 0.945
+maxpool_GR_WN_valid_preds F1_score: 93.74% >>>
+./save/maxpool_GR_WN_valid/model.ckpt41
+Test Loss:  0.975304
+test accuracy : 0.818182
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.50% >>>
+
+
+
+
+New epoch 42
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.171975
+Validation accuracy : 0.94375
+maxpool_GR_WN_valid_preds F1_score: 93.67% >>>
+./save/maxpool_GR_WN_valid/model.ckpt42
+Test Loss:  0.974102
+test accuracy : 0.81855
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.53% >>>
+
+
+
+
+New epoch 43
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.17191
+Validation accuracy : 0.94375
+maxpool_GR_WN_valid_preds F1_score: 93.67% >>>
+./save/maxpool_GR_WN_valid/model.ckpt43
+Test Loss:  0.973777
+test accuracy : 0.818918
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.55% >>>
+
+
+
+
+New epoch 44
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.171896
+Validation accuracy : 0.94375
+maxpool_GR_WN_valid_preds F1_score: 93.67% >>>
+./save/maxpool_GR_WN_valid/model.ckpt44
+Test Loss:  0.973574
+test accuracy : 0.818918
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.55% >>>
+
+
+
+
+New epoch 45
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.171797
+Validation accuracy : 0.94375
+maxpool_GR_WN_valid_preds F1_score: 93.67% >>>
+./save/maxpool_GR_WN_valid/model.ckpt45
+Test Loss:  0.973764
+test accuracy : 0.818918
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.55% >>>
+
+
+
+
+New epoch 46
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.171733
+Validation accuracy : 0.94375
+maxpool_GR_WN_valid_preds F1_score: 93.67% >>>
+./save/maxpool_GR_WN_valid/model.ckpt46
+Test Loss:  0.973911
+test accuracy : 0.818918
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.55% >>>
+
+
+
+
+New epoch 47
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.171769
+Validation accuracy : 0.94375
+maxpool_GR_WN_valid_preds F1_score: 93.67% >>>
+./save/maxpool_GR_WN_valid/model.ckpt47
+Test Loss:  0.97429
+test accuracy : 0.818918
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.57% >>>
+
+
+
+
+New epoch 48
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.171673
+Validation accuracy : 0.94375
+maxpool_GR_WN_valid_preds F1_score: 93.67% >>>
+./save/maxpool_GR_WN_valid/model.ckpt48
+Test Loss:  0.974174
+test accuracy : 0.819286
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.61% >>>
+
+
+
+
+New epoch 49
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.171732
+Validation accuracy : 0.94375
+maxpool_GR_WN_valid_preds F1_score: 93.67% >>>
+./save/maxpool_GR_WN_valid/model.ckpt49
+Test Loss:  0.973611
+test accuracy : 0.819286
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.61% >>>
+
+
+
+
+New epoch 50
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.171838
+Validation accuracy : 0.94375
+maxpool_GR_WN_valid_preds F1_score: 93.67% >>>
+./save/maxpool_GR_WN_valid/model.ckpt50
+Test Loss:  0.973063
+test accuracy : 0.819654
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.65% >>>
+
+
+
+
+New epoch 51
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.171863
+Validation accuracy : 0.94375
+maxpool_GR_WN_valid_preds F1_score: 93.67% >>>
+./save/maxpool_GR_WN_valid/model.ckpt51
+Test Loss:  0.972646
+test accuracy : 0.819654
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.65% >>>
+
+
+
+
+New epoch 52
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.17189
+Validation accuracy : 0.94375
+maxpool_GR_WN_valid_preds F1_score: 93.67% >>>
+./save/maxpool_GR_WN_valid/model.ckpt52
+Test Loss:  0.972278
+test accuracy : 0.820022
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.67% >>>
+
+
+
+
+New epoch 53
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.171826
+Validation accuracy : 0.94375
+maxpool_GR_WN_valid_preds F1_score: 93.67% >>>
+./save/maxpool_GR_WN_valid/model.ckpt53
+Test Loss:  0.972164
+test accuracy : 0.82039
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.71% >>>
+
+
+
+
+New epoch 54
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.171834
+Validation accuracy : 0.9425
+maxpool_GR_WN_valid_preds F1_score: 93.55% >>>
+./save/maxpool_GR_WN_valid/model.ckpt54
+Test Loss:  0.972234
+test accuracy : 0.82039
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.71% >>>
+
+
+
+
+New epoch 55
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.171893
+Validation accuracy : 0.9425
+maxpool_GR_WN_valid_preds F1_score: 93.55% >>>
+./save/maxpool_GR_WN_valid/model.ckpt55
+Test Loss:  0.971904
+test accuracy : 0.820758
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.74% >>>
+
+
+
+
+New epoch 56
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.171037
+Validation accuracy : 0.94625
+maxpool_GR_WN_valid_preds F1_score: 93.99% >>>
+./save/maxpool_GR_WN_valid/model.ckpt56
+Test Loss:  0.957079
+test accuracy : 0.821494
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.77% >>>
+
+
+
+
+New epoch 57
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.168308
+Validation accuracy : 0.94375
+maxpool_GR_WN_valid_preds F1_score: 93.55% >>>
+./save/maxpool_GR_WN_valid/model.ckpt57
+Test Loss:  0.977289
+test accuracy : 0.820758
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.74% >>>
+
+
+
+
+New epoch 58
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.165212
+Validation accuracy : 0.95
+maxpool_GR_WN_valid_preds F1_score: 94.53% >>>
+./save/maxpool_GR_WN_valid/model.ckpt58
+Test Loss:  1.00606
+test accuracy : 0.817078
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.66% >>>
+
+
+
+
+New epoch 59
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.168982
+Validation accuracy : 0.94625
+maxpool_GR_WN_valid_preds F1_score: 94.14% >>>
+./save/maxpool_GR_WN_valid/model.ckpt59
+Test Loss:  0.962226
+test accuracy : 0.820022
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.59% >>>
+
+
+
+
+New epoch 60
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.173135
+Validation accuracy : 0.945
+maxpool_GR_WN_valid_preds F1_score: 93.95% >>>
+./save/maxpool_GR_WN_valid/model.ckpt60
+Test Loss:  0.967106
+test accuracy : 0.818918
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.68% >>>
+
+
+
+
+New epoch 61
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.167258
+Validation accuracy : 0.9425
+maxpool_GR_WN_valid_preds F1_score: 93.56% >>>
+./save/maxpool_GR_WN_valid/model.ckpt61
+Test Loss:  1.00491
+test accuracy : 0.814501
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.39% >>>
+
+
+
+
+New epoch 62
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.170653
+Validation accuracy : 0.94
+maxpool_GR_WN_valid_preds F1_score: 93.33% >>>
+./save/maxpool_GR_WN_valid/model.ckpt62
+Test Loss:  1.01075
+test accuracy : 0.815605
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.35% >>>
+
+
+
+
+New epoch 63
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.167432
+Validation accuracy : 0.94625
+maxpool_GR_WN_valid_preds F1_score: 93.71% >>>
+./save/maxpool_GR_WN_valid/model.ckpt63
+Test Loss:  1.01003
+test accuracy : 0.81671
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.55% >>>
+
+
+
+
+New epoch 64
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.168998
+Validation accuracy : 0.94375
+maxpool_GR_WN_valid_preds F1_score: 93.42% >>>
+./save/maxpool_GR_WN_valid/model.ckpt64
+Test Loss:  0.996597
+test accuracy : 0.820022
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.63% >>>
+
+
+
+
+New epoch 65
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.164465
+Validation accuracy : 0.9475
+maxpool_GR_WN_valid_preds F1_score: 94.08% >>>
+./save/maxpool_GR_WN_valid/model.ckpt65
+Test Loss:  1.00711
+test accuracy : 0.821862
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.87% >>>
+
+
+
+
+New epoch 66
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.170682
+Validation accuracy : 0.945
+maxpool_GR_WN_valid_preds F1_score: 93.74% >>>
+./save/maxpool_GR_WN_valid/model.ckpt66
+Test Loss:  0.981855
+test accuracy : 0.82223
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.75% >>>
+
+
+
+
+New epoch 67
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.163536
+Validation accuracy : 0.9475
+maxpool_GR_WN_valid_preds F1_score: 94.17% >>>
+./save/maxpool_GR_WN_valid/model.ckpt67
+Test Loss:  0.997396
+test accuracy : 0.818918
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.61% >>>
+
+
+
+
+New epoch 68
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.164764
+Validation accuracy : 0.945
+maxpool_GR_WN_valid_preds F1_score: 93.52% >>>
+./save/maxpool_GR_WN_valid/model.ckpt68
+Test Loss:  1.03158
+test accuracy : 0.814501
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.29% >>>
+
+
+
+
+New epoch 69
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.164205
+Validation accuracy : 0.94875
+maxpool_GR_WN_valid_preds F1_score: 94.17% >>>
+./save/maxpool_GR_WN_valid/model.ckpt69
+Test Loss:  1.00453
+test accuracy : 0.817814
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.46% >>>
+
+
+
+
+New epoch 70
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.163072
+Validation accuracy : 0.95125
+maxpool_GR_WN_valid_preds F1_score: 94.23% >>>
+./save/maxpool_GR_WN_valid/model.ckpt70
+Test Loss:  1.00825
+test accuracy : 0.81671
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.34% >>>
+
+
+
+
+New epoch 71
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.164326
+Validation accuracy : 0.9475
+maxpool_GR_WN_valid_preds F1_score: 94.05% >>>
+./save/maxpool_GR_WN_valid/model.ckpt71
+Test Loss:  1.01217
+test accuracy : 0.817078
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.43% >>>
+
+
+
+
+New epoch 72
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.162754
+Validation accuracy : 0.95125
+maxpool_GR_WN_valid_preds F1_score: 94.60% >>>
+./save/maxpool_GR_WN_valid/model.ckpt72
+Test Loss:  1.00639
+test accuracy : 0.820022
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.67% >>>
+
+
+
+
+New epoch 73
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.162328
+Validation accuracy : 0.94875
+maxpool_GR_WN_valid_preds F1_score: 94.21% >>>
+./save/maxpool_GR_WN_valid/model.ckpt73
+Test Loss:  1.01562
+test accuracy : 0.817446
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.52% >>>
+
+
+
+
+New epoch 74
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.162211
+Validation accuracy : 0.9475
+maxpool_GR_WN_valid_preds F1_score: 94.05% >>>
+./save/maxpool_GR_WN_valid/model.ckpt74
+Test Loss:  1.00833
+test accuracy : 0.817814
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.51% >>>
+
+
+
+
+New epoch 75
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.161176
+Validation accuracy : 0.94625
+maxpool_GR_WN_valid_preds F1_score: 94.09% >>>
+./save/maxpool_GR_WN_valid/model.ckpt75
+Test Loss:  1.00386
+test accuracy : 0.818182
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.55% >>>
+
+
+
+
+New epoch 76
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.160808
+Validation accuracy : 0.9475
+maxpool_GR_WN_valid_preds F1_score: 94.00% >>>
+./save/maxpool_GR_WN_valid/model.ckpt76
+Test Loss:  1.00103
+test accuracy : 0.820758
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.71% >>>
+
+
+
+
+New epoch 77
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.160516
+Validation accuracy : 0.9475
+maxpool_GR_WN_valid_preds F1_score: 94.04% >>>
+./save/maxpool_GR_WN_valid/model.ckpt77
+Test Loss:  1.01128
+test accuracy : 0.820758
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.72% >>>
+
+
+
+
+New epoch 78
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.160822
+Validation accuracy : 0.945
+maxpool_GR_WN_valid_preds F1_score: 93.82% >>>
+./save/maxpool_GR_WN_valid/model.ckpt78
+Test Loss:  1.00566
+test accuracy : 0.818182
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.47% >>>
+
+
+
+
+New epoch 79
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.163451
+Validation accuracy : 0.9475
+maxpool_GR_WN_valid_preds F1_score: 94.12% >>>
+./save/maxpool_GR_WN_valid/model.ckpt79
+Test Loss:  1.013
+test accuracy : 0.817446
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.50% >>>
+
+
+
+
+New epoch 80
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.161108
+Validation accuracy : 0.945
+maxpool_GR_WN_valid_preds F1_score: 93.58% >>>
+./save/maxpool_GR_WN_valid/model.ckpt80
+Test Loss:  1.0205
+test accuracy : 0.817078
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.42% >>>
+
+
+
+
+New epoch 81
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.161654
+Validation accuracy : 0.94625
+maxpool_GR_WN_valid_preds F1_score: 93.89% >>>
+./save/maxpool_GR_WN_valid/model.ckpt81
+Test Loss:  1.01844
+test accuracy : 0.817078
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.41% >>>
+
+
+
+
+New epoch 82
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.161113
+Validation accuracy : 0.945
+maxpool_GR_WN_valid_preds F1_score: 93.56% >>>
+./save/maxpool_GR_WN_valid/model.ckpt82
+Test Loss:  1.02343
+test accuracy : 0.816342
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.42% >>>
+
+
+
+
+New epoch 83
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.161559
+Validation accuracy : 0.945
+maxpool_GR_WN_valid_preds F1_score: 93.73% >>>
+./save/maxpool_GR_WN_valid/model.ckpt83
+Test Loss:  1.01378
+test accuracy : 0.818182
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.50% >>>
+
+
+
+
+New epoch 84
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.16118
+Validation accuracy : 0.94875
+maxpool_GR_WN_valid_preds F1_score: 94.26% >>>
+./save/maxpool_GR_WN_valid/model.ckpt84
+Test Loss:  1.00998
+test accuracy : 0.820758
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.73% >>>
+
+
+
+
+New epoch 85
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.160009
+Validation accuracy : 0.9475
+maxpool_GR_WN_valid_preds F1_score: 94.04% >>>
+./save/maxpool_GR_WN_valid/model.ckpt85
+Test Loss:  1.01189
+test accuracy : 0.819286
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.62% >>>
+
+
+
+
+New epoch 86
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.159663
+Validation accuracy : 0.94625
+maxpool_GR_WN_valid_preds F1_score: 93.76% >>>
+./save/maxpool_GR_WN_valid/model.ckpt86
+Test Loss:  1.01046
+test accuracy : 0.81855
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.55% >>>
+
+
+
+
+New epoch 87
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.160142
+Validation accuracy : 0.945
+maxpool_GR_WN_valid_preds F1_score: 93.60% >>>
+./save/maxpool_GR_WN_valid/model.ckpt87
+Test Loss:  1.01597
+test accuracy : 0.81855
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.54% >>>
+
+
+
+
+New epoch 88
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.160602
+Validation accuracy : 0.94625
+maxpool_GR_WN_valid_preds F1_score: 93.76% >>>
+./save/maxpool_GR_WN_valid/model.ckpt88
+Test Loss:  1.01416
+test accuracy : 0.819286
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.59% >>>
+
+
+
+
+New epoch 89
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.160674
+Validation accuracy : 0.945
+maxpool_GR_WN_valid_preds F1_score: 93.60% >>>
+./save/maxpool_GR_WN_valid/model.ckpt89
+Test Loss:  1.0136
+test accuracy : 0.819654
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.60% >>>
+
+
+
+
+New epoch 90
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.160871
+Validation accuracy : 0.94625
+maxpool_GR_WN_valid_preds F1_score: 93.76% >>>
+./save/maxpool_GR_WN_valid/model.ckpt90
+Test Loss:  1.01313
+test accuracy : 0.818182
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.43% >>>
+
+
+
+
+New epoch 91
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.160462
+Validation accuracy : 0.94875
+maxpool_GR_WN_valid_preds F1_score: 94.10% >>>
+./save/maxpool_GR_WN_valid/model.ckpt91
+Test Loss:  1.01573
+test accuracy : 0.818182
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.43% >>>
+
+
+
+
+New epoch 92
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.160375
+Validation accuracy : 0.94875
+maxpool_GR_WN_valid_preds F1_score: 94.10% >>>
+./save/maxpool_GR_WN_valid/model.ckpt92
+Test Loss:  1.02004
+test accuracy : 0.817814
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.40% >>>
+
+
+
+
+New epoch 93
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.159951
+Validation accuracy : 0.94875
+maxpool_GR_WN_valid_preds F1_score: 94.10% >>>
+./save/maxpool_GR_WN_valid/model.ckpt93
+Test Loss:  1.01934
+test accuracy : 0.817446
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.38% >>>
+
+
+
+
+New epoch 94
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.159947
+Validation accuracy : 0.94875
+maxpool_GR_WN_valid_preds F1_score: 94.10% >>>
+./save/maxpool_GR_WN_valid/model.ckpt94
+Test Loss:  1.02065
+test accuracy : 0.817814
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.42% >>>
+
+
+
+
+New epoch 95
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.160024
+Validation accuracy : 0.9475
+maxpool_GR_WN_valid_preds F1_score: 94.04% >>>
+./save/maxpool_GR_WN_valid/model.ckpt95
+Test Loss:  1.01928
+test accuracy : 0.817814
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.42% >>>
+
+
+
+
+New epoch 96
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.159775
+Validation accuracy : 0.9475
+maxpool_GR_WN_valid_preds F1_score: 93.94% >>>
+./save/maxpool_GR_WN_valid/model.ckpt96
+Test Loss:  1.01974
+test accuracy : 0.817814
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.48% >>>
+
+
+
+
+New epoch 97
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.159517
+Validation accuracy : 0.94875
+maxpool_GR_WN_valid_preds F1_score: 94.10% >>>
+./save/maxpool_GR_WN_valid/model.ckpt97
+Test Loss:  1.02106
+test accuracy : 0.817814
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.52% >>>
+
+
+
+
+New epoch 98
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.159669
+Validation accuracy : 0.9475
+maxpool_GR_WN_valid_preds F1_score: 93.94% >>>
+./save/maxpool_GR_WN_valid/model.ckpt98
+Test Loss:  1.01923
+test accuracy : 0.817814
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.46% >>>
+
+
+
+
+New epoch 99
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.159845
+Validation accuracy : 0.94625
+maxpool_GR_WN_valid_preds F1_score: 93.88% >>>
+./save/maxpool_GR_WN_valid/model.ckpt99
+Test Loss:  1.01729
+test accuracy : 0.818918
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.60% >>>
+
+
+
+
+New epoch 100
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.16014
+Validation accuracy : 0.94625
+maxpool_GR_WN_valid_preds F1_score: 93.88% >>>
+./save/maxpool_GR_WN_valid/model.ckpt100
+Test Loss:  1.01666
+test accuracy : 0.818182
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.51% >>>
+
+
+
+
+New epoch 101
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.160049
+Validation accuracy : 0.94625
+maxpool_GR_WN_valid_preds F1_score: 93.88% >>>
+./save/maxpool_GR_WN_valid/model.ckpt101
+Test Loss:  1.01703
+test accuracy : 0.818182
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.54% >>>
+
+
+
+
+New epoch 102
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.160001
+Validation accuracy : 0.94625
+maxpool_GR_WN_valid_preds F1_score: 93.88% >>>
+./save/maxpool_GR_WN_valid/model.ckpt102
+Test Loss:  1.01795
+test accuracy : 0.818182
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.50% >>>
+
+
+
+
+New epoch 103
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.159839
+Validation accuracy : 0.94625
+maxpool_GR_WN_valid_preds F1_score: 93.88% >>>
+./save/maxpool_GR_WN_valid/model.ckpt103
+Test Loss:  1.01908
+test accuracy : 0.81855
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.56% >>>
+
+
+
+
+New epoch 104
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.159602
+Validation accuracy : 0.94625
+maxpool_GR_WN_valid_preds F1_score: 93.88% >>>
+./save/maxpool_GR_WN_valid/model.ckpt104
+Test Loss:  1.02016
+test accuracy : 0.818182
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.50% >>>
+
+
+
+
+New epoch 105
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.159693
+Validation accuracy : 0.9475
+maxpool_GR_WN_valid_preds F1_score: 94.04% >>>
+./save/maxpool_GR_WN_valid/model.ckpt105
+Test Loss:  1.01966
+test accuracy : 0.818182
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.50% >>>
+
+
+
+
+New epoch 106
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.159723
+Validation accuracy : 0.94625
+maxpool_GR_WN_valid_preds F1_score: 93.88% >>>
+./save/maxpool_GR_WN_valid/model.ckpt106
+Test Loss:  1.01938
+test accuracy : 0.818182
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.50% >>>
+
+
+
+
+New epoch 107
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.159804
+Validation accuracy : 0.94625
+maxpool_GR_WN_valid_preds F1_score: 93.88% >>>
+./save/maxpool_GR_WN_valid/model.ckpt107
+Test Loss:  1.01886
+test accuracy : 0.817814
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.44% >>>
+
+
+
+
+New epoch 108
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.159882
+Validation accuracy : 0.94625
+maxpool_GR_WN_valid_preds F1_score: 93.88% >>>
+./save/maxpool_GR_WN_valid/model.ckpt108
+Test Loss:  1.0183
+test accuracy : 0.818182
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.50% >>>
+
+
+
+
+New epoch 109
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.159904
+Validation accuracy : 0.94625
+maxpool_GR_WN_valid_preds F1_score: 93.88% >>>
+./save/maxpool_GR_WN_valid/model.ckpt109
+Test Loss:  1.01765
+test accuracy : 0.818182
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.50% >>>
+
+
+
+
+New epoch 110
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.159931
+Validation accuracy : 0.94625
+maxpool_GR_WN_valid_preds F1_score: 93.88% >>>
+./save/maxpool_GR_WN_valid/model.ckpt110
+Test Loss:  1.01766
+test accuracy : 0.818182
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.50% >>>
+
+
+
+
+New epoch 111
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.159977
+Validation accuracy : 0.94625
+maxpool_GR_WN_valid_preds F1_score: 93.88% >>>
+./save/maxpool_GR_WN_valid/model.ckpt111
+Test Loss:  1.01729
+test accuracy : 0.817814
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.45% >>>
+
+
+
+
+New epoch 112
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.159952
+Validation accuracy : 0.94625
+maxpool_GR_WN_valid_preds F1_score: 93.88% >>>
+./save/maxpool_GR_WN_valid/model.ckpt112
+Test Loss:  1.0173
+test accuracy : 0.817814
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.45% >>>
+
+
+
+
+New epoch 113
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.159942
+Validation accuracy : 0.94625
+maxpool_GR_WN_valid_preds F1_score: 93.88% >>>
+./save/maxpool_GR_WN_valid/model.ckpt113
+Test Loss:  1.01747
+test accuracy : 0.817814
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.45% >>>
+
+
+
+
+New epoch 114
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.160001
+Validation accuracy : 0.94625
+maxpool_GR_WN_valid_preds F1_score: 93.88% >>>
+./save/maxpool_GR_WN_valid/model.ckpt114
+Test Loss:  1.01746
+test accuracy : 0.817814
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.45% >>>
+
+
+
+
+New epoch 115
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.159967
+Validation accuracy : 0.94625
+maxpool_GR_WN_valid_preds F1_score: 93.88% >>>
+./save/maxpool_GR_WN_valid/model.ckpt115
+Test Loss:  1.01772
+test accuracy : 0.817814
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.45% >>>
+
+
+
+
+New epoch 116
+epoch Train loss nan
+Epoch Train Accuracy nan
+Validation Loss:  0.159941
+Validation accuracy : 0.94625
+maxpool_GR_WN_valid_preds F1_score: 93.88% >>>
+./save/maxpool_GR_WN_valid/model.ckpt116
+Test Loss:  1.01803
+test accuracy : 0.817814
+(2717,)
+maxpool_GR_WN_test_preds F1_score: 83.45% >>>
+
+
+
+
+[0.6775856, 0.73352963, 0.79499447, 0.81928599, 0.76150167, 0.79278618, 0.81339711, 0.80787635, 0.81008464, 0.81670958, 0.81597352, 0.80382776, 0.81302905, 0.82259846, 0.81008464, 0.82664704, 0.805668, 0.82333457, 0.81450129, 0.8152374, 0.81486934, 0.81965405, 0.82443869, 0.81928599, 0.8222304, 0.81339711, 0.81450129, 0.81376517, 0.82149428, 0.81670958, 0.81266105, 0.81266105, 0.81818181, 0.82002211, 0.82149428, 0.82075816, 0.81818181, 0.81597352, 0.81818181, 0.81597352, 0.81670958, 0.81818181, 0.81854987, 0.81891793, 0.81891793, 0.81891793, 0.81891793, 0.81891793, 0.81928599, 0.81928599, 0.81965405, 0.81965405, 0.82002211, 0.82039016, 0.82039016, 0.82075816, 0.82149428, 0.82075816, 0.81707764, 0.82002211, 0.81891793, 0.81450129, 0.81560546, 0.81670958, 0.82002211, 0.82186234, 0.8222304, 0.81891793, 0.81450129, 0.81781375, 0.81670958, 0.81707764, 0.82002211, 0.8174457, 0.81781375, 0.81818181, 0.82075816, 0.82075816, 0.81818181, 0.8174457, 0.81707764, 0.81707764, 0.81634158, 0.81818181, 0.82075816, 0.81928599, 0.81854987, 0.81854987, 0.81928599, 0.81965405, 0.81818181, 0.81818181, 0.81781375, 0.8174457, 0.81781375, 0.81781375, 0.81781375, 0.81781375, 0.81781375, 0.81891793, 0.81818181, 0.81818181, 0.81818181, 0.81854987, 0.81818181, 0.81818181, 0.81818181, 0.81781375, 0.81818181, 0.81818181, 0.81818181, 0.81781375, 0.81781375, 0.81781375, 0.81781375, 0.81781375, 0.81781375]

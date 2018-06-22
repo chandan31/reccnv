@@ -1,0 +1,142 @@
+!!!WARNING!!! The proposed file contains 14 label(s) of type '_Other', which is NOT present in the key file.
+
+<<< (2*9+1)-WAY EVALUATION (USING DIRECTIONALITY)>>>:
+
+Confusion matrix:
+        C-E1 C-E2 C-W1 C-W2 C-C1 C-C2 E-D2 E-O1 E-O2 I-A1 I-A2 M-C1 M-C2 M-T1 M-T2 P-P1 P-P2  _O_ <-- classified as
+      +------------------------------------------------------------------------------------------+ -SUM- skip ACTUAL
+ C-E1 | 127    8    0    0    0    0    0    0    1    0    0    0    0    0    1    0    0    0 |  137    0  137
+ C-E2 |   5   41    0    0    0    0    0    0    1    0    0    0    0    0    0    4    0    3 |   54    0   54
+ C-W1 |   0    0   38    1    4    0    0    0    0    0    0    0    0    0    3    0    0    1 |   47    0   47
+ C-W2 |   0    0    3   38    0    4    1    0    1    0    0    0    0    0    0    0    0    1 |   48    0   48
+ C-C1 |   0    0    1    0   40    1    0    0    0    0    0    0    0    0    0    0    0    0 |   42    0   42
+ C-C2 |   0    0    0    0    0   26    2    0    0    0    0    0    0    0    0    0    0    0 |   28    0   28
+ E-D2 |   0    0    0    0    0    2   37    0    0    0    0    0    0    0    0    0    0    1 |   40    0   40
+ E-O1 |   0    0    0    0    0    0    0   32    2    0    0    0    0    0    0    0    0    1 |   35    0   35
+ E-O2 |   1    1    1    0    0    0    0    1   80    0    0    0    0    0    1    0    1    1 |   87    0   87
+ I-A1 |   0    0    0    0    0    0    0    0    0   70    1    0    0    0    0    0    0    0 |   71    0   71
+ I-A2 |   0    0    0    0    0    0    0    0    0    0   23    0    0    0    0    0    1    1 |   25    0   25
+ M-C1 |   0    0    1    0    0    0    0    0    0    0    0   23    0    0    0    0    0    2 |   26    0   26
+ M-C2 |   0    0    0    0    0    0    0    0    1    0    0    0    5    0    0    0    0    1 |    7    0    7
+ M-T1 |   1    0    0    0    0    0    0    0    0    0    0    0    0    3    0    0    0    0 |    4    0    4
+ M-T2 |   0    0    0    0    0    0    0    0    0    0    0    0    0    0   18    0    1    0 |   19    0   19
+ P-P1 |   0    0    0    0    0    0    0    0    0    1    0    0    0    0    0   76    0    2 |   79    0   79
+ P-P2 |   0    0    0    0    0    0    0    0    3    0    0    0    0    0    0    0   48    0 |   51    0   51
+      +------------------------------------------------------------------------------------------+
+ -SUM-  134   50   44   39   44   33   40   33   89   71   24   23    5    3   23   80   51   14    800    0  800
+
+Coverage = 800/800 = 100.00%
+Accuracy (calculated for the above confusion matrix) = 725/800 = 90.62%
+Accuracy (considering all skipped examples as Wrong) = 725/800 = 90.62%
+Accuracy (considering all skipped examples as Other) = 725/800 = 90.62%
+
+Results for the individual relations:
+      Cause-Effect(e1,e2) :    P =  127/ 134 =  94.78%     R =  127/ 137 =  92.70%     F1 =  93.73%
+      Cause-Effect(e2,e1) :    P =   41/  50 =  82.00%     R =   41/  54 =  75.93%     F1 =  78.85%
+   Component-Whole(e1,e2) :    P =   38/  44 =  86.36%     R =   38/  47 =  80.85%     F1 =  83.52%
+   Component-Whole(e2,e1) :    P =   38/  39 =  97.44%     R =   38/  48 =  79.17%     F1 =  87.36%
+ Content-Container(e1,e2) :    P =   40/  44 =  90.91%     R =   40/  42 =  95.24%     F1 =  93.02%
+ Content-Container(e2,e1) :    P =   26/  33 =  78.79%     R =   26/  28 =  92.86%     F1 =  85.25%
+Entity-Destination(e2,e1) :    P =   37/  40 =  92.50%     R =   37/  40 =  92.50%     F1 =  92.50%
+     Entity-Origin(e1,e2) :    P =   32/  33 =  96.97%     R =   32/  35 =  91.43%     F1 =  94.12%
+     Entity-Origin(e2,e1) :    P =   80/  89 =  89.89%     R =   80/  87 =  91.95%     F1 =  90.91%
+ Instrument-Agency(e1,e2) :    P =   70/  71 =  98.59%     R =   70/  71 =  98.59%     F1 =  98.59%
+ Instrument-Agency(e2,e1) :    P =   23/  24 =  95.83%     R =   23/  25 =  92.00%     F1 =  93.88%
+ Member-Collection(e1,e2) :    P =   23/  23 = 100.00%     R =   23/  26 =  88.46%     F1 =  93.88%
+ Member-Collection(e2,e1) :    P =    5/   5 = 100.00%     R =    5/   7 =  71.43%     F1 =  83.33%
+     Message-Topic(e1,e2) :    P =    3/   3 = 100.00%     R =    3/   4 =  75.00%     F1 =  85.71%
+     Message-Topic(e2,e1) :    P =   18/  23 =  78.26%     R =   18/  19 =  94.74%     F1 =  85.71%
+  Product-Producer(e1,e2) :    P =   76/  80 =  95.00%     R =   76/  79 =  96.20%     F1 =  95.60%
+  Product-Producer(e2,e1) :    P =   48/  51 =  94.12%     R =   48/  51 =  94.12%     F1 =  94.12%
+
+Micro-averaged result (excluding Other):
+P =  725/ 786 =  92.24%     R =  725/ 800 =  90.62%     F1 =  91.42%
+
+MACRO-averaged result (excluding Other):
+P =  92.44%	R =  88.42%	F1 =  90.00%
+
+
+
+<<< (9+1)-WAY EVALUATION IGNORING DIRECTIONALITY >>>:
+
+Confusion matrix:
+         C-E  C-W  C-C  E-D  E-O  I-A  M-C  M-T  P-P  _O_ <-- classified as
+      +--------------------------------------------------+ -SUM- skip ACTUAL
+  C-E | 181    0    0    0    2    0    0    1    4    3 |  191    0  191
+  C-W |   0   80    8    1    1    0    0    3    0    2 |   95    0   95
+  C-C |   0    1   67    2    0    0    0    0    0    0 |   70    0   70
+  E-D |   0    0    2   37    0    0    0    0    0    1 |   40    0   40
+  E-O |   2    1    0    0  115    0    0    1    1    2 |  122    0  122
+  I-A |   0    0    0    0    0   94    0    0    1    1 |   96    0   96
+  M-C |   0    1    0    0    1    0   28    0    0    3 |   33    0   33
+  M-T |   1    0    0    0    0    0    0   21    1    0 |   23    0   23
+  P-P |   0    0    0    0    3    1    0    0  124    2 |  130    0  130
+      +--------------------------------------------------+
+ -SUM-  184   83   77   40  122   95   28   26  131   14    800    0  800
+
+Coverage = 800/800 = 100.00%
+Accuracy (calculated for the above confusion matrix) = 747/800 = 93.38%
+Accuracy (considering all skipped examples as Wrong) = 747/800 = 93.38%
+Accuracy (considering all skipped examples as Other) = 747/800 = 93.38%
+
+Results for the individual relations:
+             Cause-Effect :    P =  181/ 184 =  98.37%     R =  181/ 191 =  94.76%     F1 =  96.53%
+          Component-Whole :    P =   80/  83 =  96.39%     R =   80/  95 =  84.21%     F1 =  89.89%
+        Content-Container :    P =   67/  77 =  87.01%     R =   67/  70 =  95.71%     F1 =  91.16%
+       Entity-Destination :    P =   37/  40 =  92.50%     R =   37/  40 =  92.50%     F1 =  92.50%
+            Entity-Origin :    P =  115/ 122 =  94.26%     R =  115/ 122 =  94.26%     F1 =  94.26%
+        Instrument-Agency :    P =   94/  95 =  98.95%     R =   94/  96 =  97.92%     F1 =  98.43%
+        Member-Collection :    P =   28/  28 = 100.00%     R =   28/  33 =  84.85%     F1 =  91.80%
+            Message-Topic :    P =   21/  26 =  80.77%     R =   21/  23 =  91.30%     F1 =  85.71%
+         Product-Producer :    P =  124/ 131 =  94.66%     R =  124/ 130 =  95.38%     F1 =  95.02%
+
+Micro-averaged result (excluding Other):
+P =  747/ 786 =  95.04%     R =  747/ 800 =  93.38%     F1 =  94.20%
+
+MACRO-averaged result (excluding Other):
+P =  93.66%	R =  92.32%	F1 =  92.81%
+
+
+
+<<< (9+1)-WAY EVALUATION TAKING DIRECTIONALITY INTO ACCOUNT -- OFFICIAL >>>:
+
+Confusion matrix:
+         C-E  C-W  C-C  E-D  E-O  I-A  M-C  M-T  P-P  _O_ <-- classified as
+      +--------------------------------------------------+ -SUM- xDIRx skip  ACTUAL
+  C-E | 168    0    0    0    2    0    0    1    4    3 |  178    13     0    191
+  C-W |   0   76    8    1    1    0    0    3    0    2 |   91     4     0     95
+  C-C |   0    1   66    2    0    0    0    0    0    0 |   69     1     0     70
+  E-D |   0    0    2   37    0    0    0    0    0    1 |   40     0     0     40
+  E-O |   2    1    0    0  112    0    0    1    1    2 |  119     3     0    122
+  I-A |   0    0    0    0    0   93    0    0    1    1 |   95     1     0     96
+  M-C |   0    1    0    0    1    0   28    0    0    3 |   33     0     0     33
+  M-T |   1    0    0    0    0    0    0   21    1    0 |   23     0     0     23
+  P-P |   0    0    0    0    3    1    0    0  124    2 |  130     0     0    130
+      +--------------------------------------------------+
+ -SUM-  171   79   76   40  119   94   28   26  131   14    778    22     0    800
+
+Coverage = 800/800 = 100.00%
+Accuracy (calculated for the above confusion matrix) = 725/800 = 90.62%
+Accuracy (considering all skipped examples as Wrong) = 725/800 = 90.62%
+Accuracy (considering all skipped examples as Other) = 725/800 = 90.62%
+
+Results for the individual relations:
+             Cause-Effect :    P =  168/( 171 +  13) =  91.30%     R =  168/ 191 =  87.96%     F1 =  89.60%
+          Component-Whole :    P =   76/(  79 +   4) =  91.57%     R =   76/  95 =  80.00%     F1 =  85.39%
+        Content-Container :    P =   66/(  76 +   1) =  85.71%     R =   66/  70 =  94.29%     F1 =  89.80%
+       Entity-Destination :    P =   37/(  40 +   0) =  92.50%     R =   37/  40 =  92.50%     F1 =  92.50%
+            Entity-Origin :    P =  112/( 119 +   3) =  91.80%     R =  112/ 122 =  91.80%     F1 =  91.80%
+        Instrument-Agency :    P =   93/(  94 +   1) =  97.89%     R =   93/  96 =  96.88%     F1 =  97.38%
+        Member-Collection :    P =   28/(  28 +   0) = 100.00%     R =   28/  33 =  84.85%     F1 =  91.80%
+            Message-Topic :    P =   21/(  26 +   0) =  80.77%     R =   21/  23 =  91.30%     F1 =  85.71%
+         Product-Producer :    P =  124/( 131 +   0) =  94.66%     R =  124/ 130 =  95.38%     F1 =  95.02%
+
+Micro-averaged result (excluding Other):
+P =  725/ 786 =  92.24%     R =  725/ 800 =  90.62%     F1 =  91.42%
+
+MACRO-averaged result (excluding Other):
+P =  91.80%	R =  90.55%	F1 =  91.00%
+
+
+
+<<< The official score is (9+1)-way evaluation with directionality taken into account: macro-averaged F1 = 91.00% >>>
